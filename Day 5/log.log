@@ -1,0 +1,14 @@
+2025-06-01 05:27:47,231-INFO-value of variable is 20
+2025-06-01 05:27:47,231-ERROR-ZeroDivisionError
+Traceback (most recent call last):
+  File "/workspaces/Python-7Days-50Q-Challenge/Day 5/program7.py", line 16, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+2025-06-01 05:27:47,234-ERROR-using exception
+Traceback (most recent call last):
+  File "/workspaces/Python-7Days-50Q-Challenge/Day 5/program7.py", line 16, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
+2025-06-01 05:27:47,234-INFO-testing custom logger
